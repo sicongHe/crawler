@@ -1,0 +1,1 @@
+先运行taskmaster 然后运行taskworker1 然后运行taskworker2 用select查询数据
